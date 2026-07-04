@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing my skills, projects, education
 
 ## 🌐 Live Demo
 
-🔗 https://<username>.github.io/<repo-name>/
+🔗 https://nandani126.github.io/Portfolio/
 
 > Replace the above link with your deployed website.
 
